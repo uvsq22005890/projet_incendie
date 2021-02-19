@@ -22,3 +22,6 @@
 # Définir variables globales
 # Définir fonctions : Fonction doit contenir docstring
 # Programme principal doit contenir définition widgets et événements qui leur sont liés et l’appel à la boule de gestion des événements
+
+
+hhhggggg
